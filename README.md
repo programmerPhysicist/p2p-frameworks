@@ -1,6 +1,7 @@
 # P2P Frameworks List
 
-A collection of peer-to-peer frameworks. This is forked from the [p2p-index](https://github.com/moshest/p2p-index)  repo\
+A collection of peer-to-peer frameworks. If you are looking for a framework to create your peer-to-peer program or application, start here.
+This is forked from the [p2p-index](https://github.com/moshest/p2p-index)  repo\
 Please send me a pull request with your project!
 
 This list is published under [GNU GPLv3](LICENSE).
