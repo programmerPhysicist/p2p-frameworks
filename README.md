@@ -5,12 +5,10 @@ Please send me a pull request with your project!
 
 This list is published under [GNU GPLv3](LICENSE).
 
-### Web
+### Platforms & Frameworks
 
 * [**I2P**](https://geti2p.net/en/)
 It's similar to Freenet, GNUnet and Tor.
-
-### Platforms & Frameworks
 
 * [**Ethereum**](https://www.ethereum.org/)
 Blockchain-based virtual machine and Web 3.0 platform.
